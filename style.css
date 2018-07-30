@@ -261,16 +261,4 @@ p {
     :root {
         font-size: 30px;
     }
-    .container {
-        display: grid;
-        grid-template-columns: 6rem 2rem 3rem 1.5rem;
-        grid-template-rows: 1.5rem 0.5rem 1rem 1rem 2rem 3rem;
-        grid-gap: .2rem;
-        width: 13.1rem;
-        background: black;
-        margin: 0 auto;
-    }
-    .box-content {
-        visibility: visible;
-    }
 }
